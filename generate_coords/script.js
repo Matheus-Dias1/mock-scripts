@@ -1,6 +1,6 @@
 // VARIABLES TO CHANGE
 const COUNTRIES = ["UG"];
-const NUM_OF_POINTS = 1000;
+const NUM_OF_POINTS = 100;
 
 ////////////////////////
 

@@ -1,4 +1,4 @@
-const FILTER_SEX: "M" | "F" | false = "F";
+const FILTER_SEX: "M" | "F" | false = false;
 
 ////////////////////////////////
 

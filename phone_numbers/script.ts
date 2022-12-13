@@ -1,7 +1,7 @@
 // Variables (CHANGE THESE)
 const PHONE_TEMPLATE = "+256 7XX XXX XXX";
-const NUMBER_OF_PHONES = 500;
-const BLANK_RATE = 0;
+const NUMBER_OF_PHONES = 1000;
+const BLANK_RATE = 0.05;
 
 const main = () => {
   const generateRandomNumber = () => {

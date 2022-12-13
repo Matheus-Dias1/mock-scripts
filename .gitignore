@@ -3,4 +3,5 @@ SIMPLIFIED.html
 PARSED.txt
 OUT.txt
 out.txt
-out/*
+out/**
+random.txt
