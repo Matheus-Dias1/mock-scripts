@@ -1,0 +1,15 @@
+{
+  "name": "date-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "date-fixer.js",
+  "scripts": {
+    "start": "ts-node script.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.13"
+  }
+}

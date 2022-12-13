@@ -1,0 +1,16 @@
+{
+  "name": "random_oids",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "random": "ts-node random.ts",
+    "search": "ts-node search.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.13"
+  }
+}
